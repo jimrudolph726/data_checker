@@ -7,7 +7,7 @@ if st.button("Check Stations For Most Recent Data"):
     station_list["ts_id"] = station_list["ts_id"].astype("Int64")
 
     today = datetime.today().strftime('%Y-%m-%d')
-    three_months_ago = (datetime.today() - pd.DateOffset(months=3)).strftime('%Y-%m-%d')
+    two_months_ago = (datetime.today() - pd.DateOffset(months=2)).strftime('%Y-%m-%d')
 
     most_recent_dates_list = []
 
