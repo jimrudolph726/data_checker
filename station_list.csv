@@ -1,15 +1,23 @@
-station_name,station_no,ts_id
-East Kittsondale,CRWD2,10207010
-Villa Park Outlet,CRWD10,10171010
-Willow Reserve - Outlet,CRWD32,19331010
-AHUG Inlet,CRWD14,10155010
-CRWD Aldine Outlet,CRWD153,19424010
-B-Dale Outlet,CRWD41,28627010
-Como 3 | Como D,CRWD21,11069010
-Como 7 | Como B5,CRWD6,10194010
-Como B5 Outlet | Como B5,1069,22871010
-Upper Villa Inlet,CRWD80,10214010
-Villa Park Outlet,CRWD10,10216010
-Willow Reserve - Inlet,CRWD31,19326010
-Trout Brook - East Branch,CRWD8,10229010
-Trout Brook - West Branch,CRWD4,10230010
+station_name,station_no,ts_id,,,,
+AHUG Inlet,CRWD14,10155010,,,,
+B-Dale Outlet,CRWD41,28627010,,,,
+Como 3 | Como D,CRWD21,11069010,,,,
+Como 7 | Como B5,CRWD6,10194010,,,,
+Como B5 Outlet | Como B5,1069,22871010,,,,
+Como Zoo Bypass,1073,24333010,,,,
+CRWD Aldine Outlet,CRWD153,19424010,,,,
+East Kittsondale,CRWD2,10207010,,,,
+Trout Brook - East Branch,CRWD8,10229010,,,,
+Trout Brook - West Branch,CRWD4,10230010,,,,
+Trout Brook Outlet,CRWD3,10231010,,,,
+Upper Villa Inlet,CRWD80,10214010,,,,
+Villa Park Outlet,CRWD10,10171010,,,,
+Villa Park Outlet,CRWD10,10216010,,,,
+Willow Reserve - Inlet,CRWD31,19326010,,,,
+Willow Reserve - Outlet,CRWD32,19331010,,,,
+Como Zoo Inlet,CRWD222,24450010,,,,
+Parkview Center School - System Inlet,CRWD167,19232010,,,,
+Parkview Center School - Filter Bay Inlet,CRWD168,19033010,,,,
+Parkview Center School - Filter Bay Outlet,CRWD169,19022010,,,,
+Seminary Pond Outlet,CRWD170,21838010,,,,
+Highland Bridge Outlet,CRWD196,28847010,,,,
