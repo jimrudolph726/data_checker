@@ -29,4 +29,4 @@ if st.button("Check Stations For Most Recent Data"):
     most_recent_dates_df = pd.DataFrame(most_recent_dates_list)
     most_recent_dates_df["Date"] = pd.to_datetime(most_recent_dates_df["Date"]).dt.tz_convert(None)
     
-    st.dataframe(most_recent_dates_df)
+    st.dataframe(most_recent_dates_df, height=1000)
