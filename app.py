@@ -15,7 +15,7 @@ if st.button("Check Stations For Most Recent Data"):
         url_csv = (
             f"http://waterdata.capitolregionwd.org/KiWIS/KiWIS?"
             f"service=kisters&type=queryServices&request=getTimeseriesValues&"
-            f"datasource=0&format=csv&ts_id={ts_id}&from={three_months_ago}&to={today}"
+            f"datasource=0&format=csv&ts_id={ts_id}&from={two_months_ago}&to={today}"
         )
         try:
             df = pd.read_csv(url_csv, sep=';', skiprows=2, header=0)
