@@ -1,7 +1,6 @@
 import pandas as pd
 from datetime import datetime
 import streamlit as st
-#test
 
 if st.button("Check Stations For Most Recent Data"):
     station_list = pd.read_csv('station_list.csv')
